@@ -3,7 +3,7 @@
 Cybersecurity Projects
   
 Azure / Cloud Projects
-  [Creating a live SOC/honeynet in Azure]
+  [Creating a live SOC/honeynet in Azure]https://github.com/CyberSektor/Azure-Cloud-SOC
 
 
  
